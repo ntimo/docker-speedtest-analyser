@@ -11,7 +11,7 @@ your internet connectivity speed.
 ![Statistic Screenshot](https://github.com/roest01/docker-speedtest-analyser/raw/master/speedlogger_screenshot.png?raw=true)
 
 # Docker Hub Image
-You can get the publicly available docker image at the following location: [roest/docker-speedtest-analyser](https://hub.docker.com/r/roest/docker-speedtest-analyser/).
+You can get the publicly available docker image at the following location: [timovibritannia/docker-speedtest-analyser](https://hub.docker.com/r/timovibritannia/docker-speedtest-analyser/). The image is build by the Docker Hub this way its always up to date.
 
 
 # Facts
@@ -58,3 +58,6 @@ If you want to contribute and report / fix bugs or bring the feature stuff writt
 own setup, don't be shy.
 
 have fun and test your speeeeed :)
+
+# Original Creator
+https://github.com/roest01/docker-speedtest-analyser
